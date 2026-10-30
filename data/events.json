@@ -1,0 +1,14 @@
+[
+  {
+    "visitorId": "60788b3dbb02a3bdd5c34b3aad6edfbc",
+    "variant": "B",
+    "type": "impression",
+    "timestamp": 1793379377816
+  },
+  {
+    "visitorId": "e57561ccd664e9f5d2b66711c4f20380",
+    "variant": "A",
+    "type": "impression",
+    "timestamp": 1793379587039
+  }
+]
